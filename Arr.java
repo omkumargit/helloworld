@@ -20,3 +20,7 @@ void m5(){
 System.out.print("m5 is called");
 
 }
+void m6(){
+ System.out.print("m6 method is aclled");
+ }
+  
