@@ -14,8 +14,8 @@ int a=90;
 void m3(){
 System.out.print("m3 method is aclled");
 }
-void m6(){
-System.out.print("m6 method is aclled");
-}
+
+void m5(){
+System.out.print("m5 is called");
 
 }
