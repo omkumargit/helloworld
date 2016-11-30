@@ -4,6 +4,7 @@ public class Arr {
 	/**
 	 * @param args
 	 */
+	 public static void m4(){}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 byte []a=new byte[1];long[]b=new long[1];
